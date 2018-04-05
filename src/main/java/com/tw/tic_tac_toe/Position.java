@@ -2,6 +2,7 @@ package com.tw.tic_tac_toe;
 
 import java.util.Objects;
 
+//Understands valid position.
 public class Position {
   private int pos;
 
